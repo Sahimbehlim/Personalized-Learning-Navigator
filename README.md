@@ -30,7 +30,7 @@ The project structure includes the following key files and directories:
     - Components/: Contains all React components.
     - data.json: JSON file containing data used in different steps.
     - App.jsx: Main application component where logic is implemented.
-    - index.jsx: Entry point of the application.
+    - main.jsx: Entry point of the application.
 
 # Dependencies
 
