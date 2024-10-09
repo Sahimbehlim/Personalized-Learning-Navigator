@@ -38,6 +38,3 @@ The project structure includes the following key files and directories:
   - Vite : Frontend build tool that includes fast hot module replacement (HMR).
   - Tailwind CSS : Utility-first CSS framework used for styling.
 
-# Live Demo 
-
-https://multistepform-sb.netlify.app/
