@@ -1,6 +1,6 @@
 # Personalized Learning Navigator
 
-This project is a Personalized Learning Navigator built using React with Vite as the bundler and Tailwind CSS for styling. It guides users through a series of steps and displays personalized learning path for users.
+This project is a personalized learning navigator built using React with Vite as the bundler and Tailwind CSS for styling. It guides users through a series of steps and displays personalized learning path for users.
 
 # Features
 
